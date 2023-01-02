@@ -1,1 +1,1 @@
-Code Inspired by ClayneID (https://github.com/deaaprizal)
+Code Inspired by Dea Afrizal (https://github.com/deaaprizal)
